@@ -14,6 +14,7 @@ import java.util.List;
 @RestController
 public class CourseResource {
 
+    //Tämä on back-end
     @Autowired
     private CoursesHardcodedService courseManagementService;
 
